@@ -1,0 +1,51 @@
+Python:- (Basic)
+- Data types
+- Keywords
+- For loop
+- while loop
+- If loop
+- nested If loop
+- Variables
+- LIST
+- Tuples
+- Sets
+- Dictionary
+- sorting
+- strings
+
+GIT:- 
+- Install in local machine and create GITHUB and GITlab account
+- 30 list- https://www.javatpoint.com/git
+
+Jenkins:[MOST IMPORTANT] (20 Topics)
+- Basic defination of Jenkins.
+- Uses of Jenkins
+- Continous deployement
+- Continous integration
+- Continous Delivery
+- Advantages of jenkins
+- Why jenkins used
+- Pre-requisites of jenkins
+
+Practicals in Jenkins:- 
+- Creating Jobs
+- Free styple
+- Pipleline jobs 
+- Multiline branch pipeline jobs
+- Configuring NODE with Jenkins master
+- Assigning jobs to the node
+- Master lay of  configuration
+- Plugins 5-7 (door or no stategy plugin, github plugin, bluewestern plugin)
+- How do you install and USES of Plugins
+- Build Triggers
+- Upstream / downstrwam jobs in Jenkins
+- Postbill actions in Jenkins
+- Agents in pipleine
+- Types of pipline (2 types)
+- Launching of notes
+- How to configure git to jenkins
+- Global tool configuration 
+- Managing jenkines
+- Configuration of jobs and configuation of Tool
+- Executors
+- How to manage the working of Jenkins
